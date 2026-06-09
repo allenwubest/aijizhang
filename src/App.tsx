@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-white text-gray-900 font-sans px-6 py-12 md:py-16">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-4xl font-bold mb-8 text-center">AI记账隐私政策</h1>
+        <h1 className="text-4xl font-bold mb-8">AI记账隐私政策</h1>
 
         <p className="mb-4">
           如果您选择使用我们提供的服务，则表示您同意收集和使用该政策相关的信息。我们收集的个人信息用于提供和改进服务。除非本隐私政策中另有说明，否则我们不会与任何人使用或者分享您的信息。
