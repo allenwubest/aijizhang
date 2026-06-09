@@ -1,0 +1,6 @@
+{
+  "name": "AI记账 隐私政策",
+  "description": "AI记账应用的隐私政策页面。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
